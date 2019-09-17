@@ -2,7 +2,7 @@ package com.example.androidmvpkotlin.ui.main
 
 import com.example.androidmvpkotlin.base.BasePresenter
 import com.example.androidmvpkotlin.base.BaseView
-import com.example.androidmvpkotlin.model.SampleModel
+import com.example.androidmvpkotlin.model.sample_model.SampleModel
 
 /**
  * Created by Muhammad Naufal Azzaahid on 09/09/2019.

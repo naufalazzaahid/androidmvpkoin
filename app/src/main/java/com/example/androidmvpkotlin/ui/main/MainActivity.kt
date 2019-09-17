@@ -4,7 +4,7 @@ import android.os.Bundle
 import android.widget.Toast
 import com.example.androidmvpkotlin.R
 import com.example.androidmvpkotlin.base.BaseActivity
-import com.example.androidmvpkotlin.model.SampleModel
+import com.example.androidmvpkotlin.model.sample_model.SampleModel
 import kotlinx.android.synthetic.main.activity_main.*
 import org.koin.android.ext.android.inject
 import org.koin.core.parameter.parametersOf

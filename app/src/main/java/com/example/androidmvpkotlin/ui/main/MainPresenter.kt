@@ -1,6 +1,6 @@
 package com.example.androidmvpkotlin.ui.main
 
-import com.example.androidmvpkotlin.model.SampleModel
+import com.example.androidmvpkotlin.model.sample_model.SampleModel
 import com.example.androidmvpkotlin.service.MyService
 import retrofit2.Call
 import retrofit2.Callback
